@@ -2,4 +2,4 @@
 
 Recruitment for the IIT Bombay's official CTF Team.
 
-THe challenges are present in the respective folders.
+The challenges are present in the respective folders.
