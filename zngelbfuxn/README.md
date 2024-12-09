@@ -10,10 +10,9 @@ To get the shell:
 docker run --interactive --tty --platform linux/amd64 --rm --hostname pseudo mohanaevuri/zngelbfuxn:latest
 ```
 
-For **ARM Mac** users, please install **rosetta - (hard to uninstall)** which supports emulation.
+For **ARM Mac** users, please install **Rosetta 2 - (hard to uninstall)**, which supports emulation.
 Apart from this, we are expecting you to have **Docker** installed.
 
 > [!CAUTION]
 >
-> PS: We are expecting a **PROPER Writeup** for this challenge **ONLY THROUGH THE SHELL**.
-> Expect this to be a challenge hosted on a server and that you have access to only the shell.
+> We are expecting a **PROPER Writeup** for this challenge, getting the flag **ONLY THROUGH THE SHELL**. Expect this to be a challenge hosted on a server and that you can access only the shell.
