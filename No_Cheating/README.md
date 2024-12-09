@@ -1,6 +1,6 @@
 # No_Cheating
 
-## ## Author: Samanth Martis
+## Author: Samanth Martis
 
 Agent!
 
