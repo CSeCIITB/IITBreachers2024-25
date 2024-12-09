@@ -16,4 +16,4 @@ Find the key! It is of utmost importance!
 One last thing... the agent managed to inform us that Money Games Co. ltd caught wind of the plot and used encryptions in their games (Although not very well, they're very lazy according to our reports).
 
 Fortunately, our Agent sent us the encryption function and, on top of it, used the same encryption function to hide the key!
-![Agents's transmitted image](image.png)
+![Agents's transmitted](./IMG-20241204-WA0005.jpg)
